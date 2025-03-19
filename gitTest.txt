@@ -10,3 +10,4 @@ git pull　で最新のgithubのデータをローカルリポジトリに反映
 git checkout  feature/okumuraでfeature/okumuraブランチに移動
 git rebase main でmainブランチの最新データを取得
 
+プルリクエストを送ってokumuraブランチを消したい
